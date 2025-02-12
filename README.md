@@ -1,4 +1,4 @@
-# Webflow Embedded Scripts
+# The Jump Embedded Scripts
 
 This repository contains a set of JavaScript files that power various dynamic features on thejumpmt.com website. The scripts handle event processing, page transitions, slider customizations, and link handling. **Note:** All of these scripts are embedded directly on the Webflow site. If you update the Webflow project’s structure or element classes, you may need to update these scripts accordingly.
 
